@@ -43,5 +43,5 @@ function TreeBuilding(Val, Root) {
 
 function TreeSort() {
     let sorted = []
-    for ()
+    // for ()
 }
