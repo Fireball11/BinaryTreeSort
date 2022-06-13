@@ -1,5 +1,5 @@
 # BinaryTreeSort
-Its my trying to create a binary tree sort on JS. 
+Its my try to create a binary tree sort on JS. 
 
 ## First try
 Tree was made, but i cant solve how to take variables.<br>
@@ -34,3 +34,6 @@ Example of Object:
     }
 }
 ```
+Image example of tree with elements 1,2,3,4,5,7,8
+![image](https://user-images.githubusercontent.com/19509692/173438243-f9bc62e6-be0a-4271-bd21-de24ce1051ec.png)
+
