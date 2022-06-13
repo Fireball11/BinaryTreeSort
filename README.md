@@ -9,7 +9,7 @@ Tree was made by using Object variables. <br>
 Root variable:<br>
 ```
   Object = {
-    value: 4 // or any other integer<br>
+    value: 4 // or any other integer
     right: "Object with 'Object.value' bigger then this.value"
     left: "Object with 'Object.value' lower then this.value"
   }
