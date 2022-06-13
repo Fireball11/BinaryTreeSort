@@ -38,7 +38,7 @@ function TreeBuilding(Val, Root) {
         }
         else return TreeBuilding(Val, Root.left);
     }
-    else return "ERROR"
+    else return "ERROR: Повторяющиеся числа"
 }
 
 function TreeSort() {
