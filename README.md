@@ -10,7 +10,7 @@ Root variable:<br>
 ```
   Object = {
     value: 4 // or any other integer<br>
-    right: "Object with 'Object.value' bigger then this.value"<br>
-    left: "Object with 'Object.value' lower then this.value"lower<br>
+    right: "Object with 'Object.value' bigger then this.value"
+    left: "Object with 'Object.value' lower then this.value"
   }
 ```
